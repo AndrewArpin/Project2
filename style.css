@@ -1,0 +1,22 @@
+body {
+  background-image: url(image.jpg);
+}
+#center {
+  text-align: center;
+  vertical-align: middle;
+  font-family: font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+ul{
+  list-style: none;
+}
+
+.cross{
+  text-decoration: line-through;
+  list-style-position: inside;
+}
+li{
+display: flex;
+justify-content: center;
+padding-bottom: 10px;
+}
